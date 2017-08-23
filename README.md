@@ -2,6 +2,6 @@
 
 Modified from original Casper theme.
 
-# Copyright & License
+## Copyright & License
 
 Copyright (c) 2017 Manuel Raya - Released under the [MIT license](LICENSE).
