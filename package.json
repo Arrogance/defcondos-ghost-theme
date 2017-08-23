@@ -1,8 +1,8 @@
 {
-    "name": "casper",
-    "description": "The default personal blogging theme for Ghost. Beautiful, minimal and responsive.",
-    "demo": "https://demo.ghost.io",
-    "version": "2.0.6",
+    "name": "def-con-dos",
+    "description": "Modified Casper theme.",
+    "demo": "https://def.condos",
+    "version": "1.0.0",
     "engines": {
         "ghost": ">=1.2.0"
     },
@@ -12,9 +12,9 @@
         "mobile": "assets/screenshot-mobile.jpg"
     },
     "author": {
-        "name": "Ghost Foundation",
-        "email": "hello@ghost.org",
-        "url": "https://ghost.org"
+        "name": "Manuel Raya",
+        "email": "manuel@arrogance.es",
+        "url": "https://arrogance.es"
     },
     "gpm": {
         "type": "theme",
@@ -25,14 +25,13 @@
     },
     "keywords": [
         "ghost",
+        "defcondos",
         "theme"
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/TryGhost/Casper.git"
+        "url": "https://github.com/Arrogance/defcondos-ghost-theme.git"
     },
-    "bugs": "https://github.com/TryGhost/Casper/issues",
-    "contributors": "https://github.com/TryGhost/Casper/graphs/contributors",
     "devDependencies": {
         "autoprefixer": "6.3.6",
         "cssnano": "3.7.1",
